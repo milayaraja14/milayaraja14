@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ilayaraja M
-### Delivery Manager | Digital & Cloud Transformation | AI-Led Transformation
+### Delivery Manager | Digital & Cloud Transformation | AI-Led Automation
 
 **Empowering Delivery Excellence with AI, engineering excellence, and strategic delivery.**
 
-I am a technology and delivery professional specializing in **Digital Transformation, Cloud Migration, and AI-led Automation** across Banking, Financial Services, Insurance, Telecom, and Media.
+I am a technology and delivery professional specializing in **Digital Transformation, Cloud Migration, and AI-Led Automation** across Banking, Financial Services, Insurance, Telecom, and Media.
 
 With extensive global delivery experience, I focus on building high-performing teams, modernizing technology platforms, improving engineering productivity, and delivering measurable business outcomes.
 
