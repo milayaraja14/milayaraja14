@@ -14,7 +14,7 @@ With extensive global delivery experience, I focus on building high-performing t
 | 💼 Leadership | 🤖 Innovation | ☁️ Cloud | 🏦 Domain |
 |---|---|---|---|
 | Delivery & Program Management | GenAI & AI Agents | AWS & Azure | BFSI & Digital Banking |
-| Quality Engineering | AI-Led Test Automation | Cloud Migration | Insurance & Telecom |
+| Digital & Quality Engineering | AI-Led Automation | Cloud Migration | Insurance & Telecom |
 
 ## 📊 Core Expertise
 
