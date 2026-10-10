@@ -49,7 +49,7 @@ With extensive global delivery experience, I focus on building high-performing t
 
 - 💼 **LinkedIn:** [linkedin.com/in/ilayaraja1](https://linkedin.com/in/ilayaraja1)
 - 🌍 **Portfolio:** [ilayaraja.vercel.app](https://ilayaraja.vercel.app)
-- 💻 **GitHub:** [github.com/ilayaraja1](https://github.com/ilayaraja1)
+- 💻 **GitHub:** [github.com/milayaraja14](https://github.com/milayaraja14)
 
 ---
 
